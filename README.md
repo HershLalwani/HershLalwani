@@ -24,9 +24,6 @@ Frameworks and Tools:
 
 
 Connect with me:
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/hersh-lalwani/" target="_blank">
-<code><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" height="25"/></code>
-</a>
-<a href="mailto:hersh.r.lalwani@gmail.com" target="_blank">
-<code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></code>
-</a>
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
